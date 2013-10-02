@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('wwwApp', [])
+angular.module('wwwJrenner', [])
   .config(function ($routeProvider) {
     $routeProvider
       .when('/', {
